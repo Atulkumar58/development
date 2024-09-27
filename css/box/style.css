@@ -1,0 +1,11 @@
+.box{
+    height: 100px;
+    width: 100px;
+    color: yellow;
+    border: 1px solid black;
+    background: linear-gradient(rgba(255, 0, 0, 0), rgba(0, 128, 0, 1));
+    background-image: radial-gradient(blue, green);
+    box-shadow: 10px 10px 15px red, 10px -10px 15px red, -10px -10px 15px red;
+    text-shadow: 1px 1px 2px;
+
+}
